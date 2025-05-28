@@ -4043,5 +4043,48 @@
       "cozy",
       "winter"
     ]
+  },
+  {
+    "name": "Pink Lemurian",
+    "link": "https://www.mystichealingstones.com/shopall/p/pink-lemurian",
+    "image": "https://images.squarespace-cdn.com/content/v1/653fffae5f987a45e83e2899/7e306087-7be2-4dfb-862a-448021a8c632/PinkLemurian1.jpg",
+    "tags": [
+      "pink",
+      "white",
+      "spring",
+      "sagittarius",
+      "classic",
+      "summer"
+    ]
+  },
+  {
+    "name": "Rhodonite Heart",
+    "link": "https://www.mystichealingstones.com/shopall/p/rhodonite-heart",
+    "image": "https://images.squarespace-cdn.com/content/v1/653fffae5f987a45e83e2899/b023508d-b390-405e-85d8-23913578dca0/RhodoniteHeart3.jpg",
+    "tags": [
+      "pink",
+      "white",
+      "black",
+      "taurus",
+      "libra",
+      "cozy",
+      "spring",
+      "autumn"
+    ]
+  },
+  {
+    "name": "Rhodonite",
+    "link": "https://www.mystichealingstones.com/shopall/p/rhodonite",
+    "image": "https://images.squarespace-cdn.com/content/v1/653fffae5f987a45e83e2899/00549a01-7013-480c-987d-2fc1f4407090/RhodoniteSpecimen1.jpg",
+    "tags": [
+      "pink",
+      "white",
+      "black",
+      "taurus",
+      "libra",
+      "cozy",
+      "spring",
+      "autumn"
+    ]
   }
 ]
