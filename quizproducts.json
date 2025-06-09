@@ -3407,7 +3407,8 @@
       "libra",
       "aries",
       "classic",
-      "spring"
+      "spring",
+      "bracelet"
     ]
   },
   {
@@ -3681,10 +3682,26 @@
       "yellow",
       "ring",
       "aquarius",
+      "bracelet",
       "pisces",
       "glamorous",
       "spring",
       "winter"
+    ]
+  },
+  {
+    "name": "Agate Bracelets",
+    "link": "https://www.mystichealingstones.com/shopall/p/amethyst-bracelets",
+    "image": "https://images.squarespace-cdn.com/content/v1/653fffae5f987a45e83e2899/8fdbda8f-7923-413d-b492-44f31c684549/AmethystBracelet4.jpg",
+    "tags": [
+      "gemini",
+      "free spirited",
+      "spring",
+      "summer",
+      "bracelet",
+      "pink",
+      "white",
+      "black"
     ]
   }
 ]
