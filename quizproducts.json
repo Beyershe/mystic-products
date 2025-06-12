@@ -3674,9 +3674,41 @@
     ]
   },
   {
-    "name": "Amethyst Bracelets",
+    "name": "Circle Amethyst Bracelets",
     "link": "https://www.mystichealingstones.com/shopall/p/amethyst-bracelets",
     "image": "https://images.squarespace-cdn.com/content/v1/653fffae5f987a45e83e2899/8fdbda8f-7923-413d-b492-44f31c684549/AmethystBracelet4.jpg",
+    "tags": [
+      "pink",
+      "yellow",
+      "ring",
+      "aquarius",
+      "bracelet",
+      "pisces",
+      "glamorous",
+      "spring",
+      "winter"
+    ]
+  },
+  {
+    "name": "Heart Amethyst Bracelets",
+    "link": "https://www.mystichealingstones.com/shopall/p/amethyst-bracelets-pwlxy",
+    "image": "https://images.squarespace-cdn.com/content/v1/653fffae5f987a45e83e2899/ec7fb648-b53c-4eee-ae0c-8ab3e897d50a/AmethystBracelet1.jpg",
+    "tags": [
+      "pink",
+      "yellow",
+      "ring",
+      "aquarius",
+      "bracelet",
+      "pisces",
+      "glamorous",
+      "spring",
+      "winter"
+    ]
+  },
+  {
+    "name": "Pear Amethyst Bracelets",
+    "link": "https://www.mystichealingstones.com/shopall/p/amethyst-bracelets-pwlxy-e5y6b",
+    "image": "https://images.squarespace-cdn.com/content/v1/653fffae5f987a45e83e2899/4fbb5181-c6ce-4581-abad-5539fc8d593c/AmethystBracelet3.jpg",
     "tags": [
       "pink",
       "yellow",
@@ -3701,6 +3733,32 @@
       "bracelet",
       "pink",
       "white",
+      "black"
+    ]
+  },
+  {
+    "name": "Obsidian Deadpool Carving",
+    "link": "https://www.mystichealingstones.com/shopall/p/obsidian-deadpool-carving",
+    "image": "https://images.squarespace-cdn.com/content/v1/653fffae5f987a45e83e2899/bd52b4d7-b28c-48e9-ab9f-0d64b0969400/ObsidianDeadpool.jpg",
+    "tags": [
+      "scorpio",
+      "capricorn",
+      "aries",
+      "winter",
+      "classic",
+      "black"
+    ]
+  },
+  {
+    "name": "Obsidian Joker Carving",
+    "link": "https://www.mystichealingstones.com/shopall/p/obsidian-joker-carving",
+    "image": "https://images.squarespace-cdn.com/content/v1/653fffae5f987a45e83e2899/b447ad10-e629-4754-99e1-19f117adcbc2/ObsidianJoker.jpg",
+    "tags": [
+      "scorpio",
+      "capricorn",
+      "aries",
+      "winter",
+      "classic",
       "black"
     ]
   }
